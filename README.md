@@ -1,2 +1,5 @@
-# Data-Analysis-Project-
-Interactive Power BI healthcare dashboard analyzing patients, doctors, treatments, and hospital performance through dynamic visuals and DAX-driven insights.
+📊 Axon Healthcare Dashboard — Power BI Project
+
+🧠 Project Objective
+To analyze patient demographics, doctor performance, treatment outcomes, and hospital operational metrics using Power BI.
+This dashboard transforms healthcare data into actionable insights for improving patient care, optimizing clinical efficiency, and enhancing decision-making across the healthcare ecosystem.
